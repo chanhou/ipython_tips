@@ -1,0 +1,8 @@
+# Created by http://www.gitignore.io
+
+# ipython checkpoints
+.ipynb_checkpoints
+
+# example
+node_modules
+*.csv
